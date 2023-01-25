@@ -1,5 +1,6 @@
 # csc340-sp23-our-first-springbbot
 ## Hello World using Spring Boot
+- Clone the project and open it in NetBeans
 - Clean and Build the project
 - Run->Set Project Configuration->Customize->Run->Main Class->Browse->Select DemoApplication.java
 - Run the main method
